@@ -1,6 +1,6 @@
 [![AUR](https://img.shields.io/badge/license-GPL%203.0-blue.svg)](https://gitee.com/yunxia-wang/rnaincoder/blob/main/LICENSE)
 [![Python 3.x](https://img.shields.io/badge/Python-3.X-green.svg)](https://www.python.org/)
-[![ncGRaph](fig/ncGRaph.png)](https://github.com/Sunyxn/ncGRaph)
+[![ncGRaph](fig/ncGRaph.jpg)](https://github.com/Sunyxn/ncGRaph)
 
 
 # Introduction
